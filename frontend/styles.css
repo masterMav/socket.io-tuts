@@ -1,0 +1,21 @@
+#message-container {
+  width: 60vh;
+  height: 40vh;
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 60vh;
+}
+
+label {
+  margin-bottom: 5px;
+}
+
+input,
+button {
+  margin-bottom: 10px;
+}
